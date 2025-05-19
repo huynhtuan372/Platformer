@@ -1,6 +1,6 @@
 # 🧨 Minesweeper
 Một phiên bản Minesweeper cổ điển, được lập trình bằng C++ và SDL2. 
-!(https://drive.google.com/uc?export=view&id=1bRl4tgS47rMFXpEJrkqJS7VcatkY8Dqq)
+![screenshot](https://drive.google.com/uc?export=view&id=1bRl4tgS47rMFXpEJrkqJS7VcatkY8Dqq)
 
 
 --- 
